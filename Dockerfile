@@ -1,5 +1,5 @@
 # Based on Redis
-FROM redis:6.2.1
+FROM redis:6.2.8
 
 # Build arguments
 ARG GH_TOKEN=null
